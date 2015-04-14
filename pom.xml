@@ -36,7 +36,10 @@
 
     <developers>
         <developer>
+            <id>jeffs</id>
             <name>Jeff Schulthies</name>
+            <email>jeffschulthies@gwu.edu</email>
+            <url>jeffs.io</url>
         </developer>
     </developers>
 
