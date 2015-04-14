@@ -2,10 +2,10 @@
 Works for LA Times and Washington Post.
 
 
-Enter a homepage
+1. Enter a homepage
 E.g. http://www.washingtonpost.com/regional/
 
-Type 'WashingtonPost' or 'LATimes'"
+2. Type 'WashingtonPost' or 'LATimes'"
 
 Files are located in /tmp/articles/
 Files are formatted YYYYMMDD-Article Title.txt
