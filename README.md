@@ -1,7 +1,6 @@
 # News-Article-Scrapper
 Works for LA Times and Washington Post.
 
-Steps
 1. Enter a homepage
 E.g. http://www.washingtonpost.com/regional/
 
