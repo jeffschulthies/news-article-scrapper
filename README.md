@@ -1,11 +1,11 @@
 # News-Article-Scrapper
 Works for LA Times and Washington Post.
 
-Steps
-1. Enter a homepage
+
+Enter a homepage
 E.g. http://www.washingtonpost.com/regional/
 
-2. Type 'WashingtonPost' or 'LATimes'"
+Type 'WashingtonPost' or 'LATimes'"
 
 Files are located in /tmp/articles/
 Files are formatted YYYYMMDD-Article Title.txt
