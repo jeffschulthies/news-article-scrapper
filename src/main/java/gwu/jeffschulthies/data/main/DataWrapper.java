@@ -1,4 +1,4 @@
-package gwu.jeffschulthies.data;
+package gwu.jeffschulthies.data.main;
 
 import gwu.jeffschulthies.data.fileio.FileOutput;
 import gwu.jeffschulthies.data.parser.Parser;

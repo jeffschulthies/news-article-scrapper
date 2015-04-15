@@ -54,7 +54,7 @@
                         <manifest>>
                             <addClasspath>true</addClasspath>
                             <classpathPrefix>lib/</classpathPrefix>
-                            <mainClass>gwu.jeffschulthies.data.DataWrapper</mainClass>
+                            <mainClass>gwu.jeffschulthies.data.main.DataWrapper</mainClass>
                         </manifest>
                     </archive>
                 </configuration>
