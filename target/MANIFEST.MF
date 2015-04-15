@@ -1,0 +1,8 @@
+Manifest-Version: 1.0
+Class-Path: lib/jsoup-1.8.2.jar lib/testng-6.8.21.jar lib/bsh-2.0b4.ja
+ r lib/jcommander-1.27.jar
+Build-Jdk: 1.8.0_25
+Built-By: jeff
+Created-By: IntelliJ IDEA
+Main-Class: gwu.jeffschulthies.data.DataWrapper
+
