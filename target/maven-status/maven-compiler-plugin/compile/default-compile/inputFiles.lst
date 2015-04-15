@@ -1,8 +1,8 @@
-/Users/des1122334455/Desktop/NewsScraper/src/main/java/data/parser/ArticleBody.java
-/Users/des1122334455/Desktop/NewsScraper/src/main/java/data/fileio/FileOutput.java
-/Users/des1122334455/Desktop/NewsScraper/src/main/java/data/DataWrapper.java
-/Users/des1122334455/Desktop/NewsScraper/src/main/java/data/parser/Parser.java
-/Users/des1122334455/Desktop/NewsScraper/src/main/java/data/parser/Homepage.java
-/Users/des1122334455/Desktop/NewsScraper/src/main/java/data/parser/ArticleHeadline.java
-/Users/des1122334455/Desktop/NewsScraper/src/main/java/data/parser/ArticleLinks.java
-/Users/des1122334455/Desktop/NewsScraper/src/main/java/data/retrieval/RetrievePage.java
+/Users/des1122334455/Desktop/NewsScraper/src/main/java/gwu/jeffschulthies/data/parser/Parser.java
+/Users/des1122334455/Desktop/NewsScraper/src/main/java/gwu/jeffschulthies/data/retrieval/RetrievePage.java
+/Users/des1122334455/Desktop/NewsScraper/src/main/java/gwu/jeffschulthies/data/fileio/FileOutput.java
+/Users/des1122334455/Desktop/NewsScraper/src/main/java/gwu/jeffschulthies/data/parser/ArticleBody.java
+/Users/des1122334455/Desktop/NewsScraper/src/main/java/gwu/jeffschulthies/data/DataWrapper.java
+/Users/des1122334455/Desktop/NewsScraper/src/main/java/gwu/jeffschulthies/data/parser/ArticleHeadline.java
+/Users/des1122334455/Desktop/NewsScraper/src/main/java/gwu/jeffschulthies/data/parser/Homepage.java
+/Users/des1122334455/Desktop/NewsScraper/src/main/java/gwu/jeffschulthies/data/parser/ArticleLinks.java

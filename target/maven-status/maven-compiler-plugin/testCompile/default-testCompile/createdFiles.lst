@@ -1,7 +1,0 @@
-data/fileio/FileOutputTest.class
-data/parser/ArticleHeadlineTest.class
-data/parser/HomepageTest.class
-data/retrieval/RetrievePageTest.class
-data/parser/ArticleLinksTest.class
-data/parser/ArticleBodyTest.class
-data/parser/ParserTest.class
