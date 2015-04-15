@@ -51,7 +51,7 @@
                 <version>2.5</version>
                 <configuration>
                     <archive>
-                        <manifest>
+                        <manifest>>
                             <addClasspath>true</addClasspath>
                             <classpathPrefix>lib/</classpathPrefix>
                             <mainClass>gwu.jeffschulthies.data.DataWrapper</mainClass>
