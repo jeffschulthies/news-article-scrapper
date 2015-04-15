@@ -13,7 +13,7 @@
         <jsoup>1.8.2</jsoup>
         <testNg>6.8.21</testNg>
         <jdk.version>1.8</jdk.version>
-        <skipTests>false</skipTests>
+        <skipTests>true</skipTests>
     </properties>
 
     <dependencies>

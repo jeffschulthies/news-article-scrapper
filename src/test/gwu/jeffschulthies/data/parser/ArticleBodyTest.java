@@ -14,6 +14,6 @@ public class ArticleBodyTest {
     public void testRetrieveArticle() throws Exception {
         RetrievePage fetch = new RetrievePage();
         Parser parse       = new Parser();
-        
+
     }
 }
