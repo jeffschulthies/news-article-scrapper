@@ -1,0 +1,8 @@
+data/parser/ArticleBody.class
+data/retrieval/RetrievePage.class
+data/parser/ArticleHeadline.class
+data/parser/Homepage.class
+data/DataWrapper.class
+data/fileio/FileOutput.class
+data/parser/ArticleLinks.class
+data/parser/Parser.class

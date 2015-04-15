@@ -35,7 +35,7 @@ public class ArticleHeadlineTest {
         //Test 4
         fetch.retrieveFirstArticle("http://www.latimes.com/science/sciencenow/la-sci-sn-medical-records-breaches-20150414-story.html");
         headline = parse.headline.retrieveArticleHeadline(fetch.getFirstArticle(),"LATimes");
-        Assert.assertEquals(headline, "Breaches of millions of health records show digital files are 'not safe' - LA Times");
+        Assert.assertEquals(headline, "Digital health records are not safe, report on breaches shows - LA Times");
 
     }
 }
