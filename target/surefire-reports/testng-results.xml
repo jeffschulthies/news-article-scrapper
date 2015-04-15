@@ -2,50 +2,50 @@
 <testng-results skipped="0" failed="0" total="8" passed="8">
   <reporter-output>
   </reporter-output>
-  <suite name="Command line suite" duration-ms="1790" started-at="2015-04-15T06:11:31Z" finished-at="2015-04-15T06:11:33Z">
+  <suite name="Command line suite" duration-ms="481" started-at="2015-04-15T20:03:37Z" finished-at="2015-04-15T20:03:38Z">
     <groups>
     </groups>
-    <test name="Command line test" duration-ms="1790" started-at="2015-04-15T06:11:31Z" finished-at="2015-04-15T06:11:33Z">
+    <test name="Command line test" duration-ms="481" started-at="2015-04-15T20:03:37Z" finished-at="2015-04-15T20:03:38Z">
       <class name="gwu.jeffschulthies.data.fileio.FileOutputTest">
-        <test-method status="PASS" signature="testFileWriter()[pri:0, instance:gwu.jeffschulthies.data.fileio.FileOutputTest@71be98f5]" name="testFileWriter" duration-ms="0" started-at="2015-04-15T02:11:33Z" finished-at="2015-04-15T02:11:33Z">
-          <reporter-output>
-          </reporter-output>
-        </test-method> <!-- testFileWriter -->
-        <test-method status="PASS" signature="testGetDate()[pri:0, instance:gwu.jeffschulthies.data.fileio.FileOutputTest@71be98f5]" name="testGetDate" duration-ms="0" started-at="2015-04-15T02:11:33Z" finished-at="2015-04-15T02:11:33Z">
+        <test-method status="PASS" signature="testGetDate()[pri:0, instance:gwu.jeffschulthies.data.fileio.FileOutputTest@71be98f5]" name="testGetDate" duration-ms="0" started-at="2015-04-15T16:03:38Z" finished-at="2015-04-15T16:03:38Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- testGetDate -->
+        <test-method status="PASS" signature="testFileWriter()[pri:0, instance:gwu.jeffschulthies.data.fileio.FileOutputTest@71be98f5]" name="testFileWriter" duration-ms="0" started-at="2015-04-15T16:03:38Z" finished-at="2015-04-15T16:03:38Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testFileWriter -->
       </class> <!-- gwu.jeffschulthies.data.fileio.FileOutputTest -->
       <class name="gwu.jeffschulthies.data.parser.ArticleLinksTest">
-        <test-method status="PASS" signature="testRetriveArticleLinks()[pri:0, instance:gwu.jeffschulthies.data.parser.ArticleLinksTest@6a5fc7f7]" name="testRetriveArticleLinks" duration-ms="0" started-at="2015-04-15T02:11:33Z" finished-at="2015-04-15T02:11:33Z">
+        <test-method status="PASS" signature="testRetriveArticleLinks()[pri:0, instance:gwu.jeffschulthies.data.parser.ArticleLinksTest@6a5fc7f7]" name="testRetriveArticleLinks" duration-ms="0" started-at="2015-04-15T16:03:38Z" finished-at="2015-04-15T16:03:38Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- testRetriveArticleLinks -->
       </class> <!-- gwu.jeffschulthies.data.parser.ArticleLinksTest -->
       <class name="gwu.jeffschulthies.data.parser.ArticleHeadlineTest">
-        <test-method status="PASS" signature="testRetrieveArticleHeadline()[pri:0, instance:gwu.jeffschulthies.data.parser.ArticleHeadlineTest@3d24753a]" name="testRetrieveArticleHeadline" duration-ms="370" started-at="2015-04-15T02:11:33Z" finished-at="2015-04-15T02:11:33Z">
+        <test-method status="PASS" signature="testRetrieveArticleHeadline()[pri:0, instance:gwu.jeffschulthies.data.parser.ArticleHeadlineTest@3d24753a]" name="testRetrieveArticleHeadline" duration-ms="317" started-at="2015-04-15T16:03:37Z" finished-at="2015-04-15T16:03:38Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- testRetrieveArticleHeadline -->
       </class> <!-- gwu.jeffschulthies.data.parser.ArticleHeadlineTest -->
       <class name="gwu.jeffschulthies.data.parser.HomepageTest">
-        <test-method status="PASS" signature="testRetrieveHomepage()[pri:0, instance:gwu.jeffschulthies.data.parser.HomepageTest@7e0ea639]" name="testRetrieveHomepage" duration-ms="0" started-at="2015-04-15T02:11:33Z" finished-at="2015-04-15T02:11:33Z">
+        <test-method status="PASS" signature="testRetrieveHomepage()[pri:0, instance:gwu.jeffschulthies.data.parser.HomepageTest@7e0ea639]" name="testRetrieveHomepage" duration-ms="0" started-at="2015-04-15T16:03:38Z" finished-at="2015-04-15T16:03:38Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- testRetrieveHomepage -->
       </class> <!-- gwu.jeffschulthies.data.parser.HomepageTest -->
       <class name="gwu.jeffschulthies.data.retrieval.RetrievePageTest">
-        <test-method status="PASS" signature="testRetrieveFirstArticle()[pri:0, instance:gwu.jeffschulthies.data.retrieval.RetrievePageTest@59a6e353]" name="testRetrieveFirstArticle" duration-ms="0" started-at="2015-04-15T02:11:33Z" finished-at="2015-04-15T02:11:33Z">
+        <test-method status="PASS" signature="testRetrieveFirstArticle()[pri:0, instance:gwu.jeffschulthies.data.retrieval.RetrievePageTest@59a6e353]" name="testRetrieveFirstArticle" duration-ms="0" started-at="2015-04-15T16:03:38Z" finished-at="2015-04-15T16:03:38Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- testRetrieveFirstArticle -->
-        <test-method status="PASS" signature="testRetrieveWebPage()[pri:0, instance:gwu.jeffschulthies.data.retrieval.RetrievePageTest@59a6e353]" name="testRetrieveWebPage" duration-ms="0" started-at="2015-04-15T02:11:33Z" finished-at="2015-04-15T02:11:33Z">
+        <test-method status="PASS" signature="testRetrieveWebPage()[pri:0, instance:gwu.jeffschulthies.data.retrieval.RetrievePageTest@59a6e353]" name="testRetrieveWebPage" duration-ms="0" started-at="2015-04-15T16:03:38Z" finished-at="2015-04-15T16:03:38Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- testRetrieveWebPage -->
       </class> <!-- gwu.jeffschulthies.data.retrieval.RetrievePageTest -->
       <class name="gwu.jeffschulthies.data.parser.ArticleBodyTest">
-        <test-method status="PASS" signature="testRetrieveArticle()[pri:0, instance:gwu.jeffschulthies.data.parser.ArticleBodyTest@7a0ac6e3]" name="testRetrieveArticle" duration-ms="1409" started-at="2015-04-15T02:11:31Z" finished-at="2015-04-15T02:11:33Z">
+        <test-method status="PASS" signature="testRetrieveArticle()[pri:0, instance:gwu.jeffschulthies.data.parser.ArticleBodyTest@7a0ac6e3]" name="testRetrieveArticle" duration-ms="154" started-at="2015-04-15T16:03:37Z" finished-at="2015-04-15T16:03:37Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- testRetrieveArticle -->
