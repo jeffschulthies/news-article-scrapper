@@ -51,7 +51,7 @@ public class ArticleLinks {
             if(!repeats.containsKey(body.attr("href"))) {
                 repeats.put(body.attr("href"), body.text());
                 paragraph = paragraph + " " + body.text() + " ";
-                paragraph = paragraph + " [http://www.latimes.com" + body.attr("href") + "] ";
+                paragraph = paragraph + " [" + body.attr("href") + "] ";
             }
         }
 
